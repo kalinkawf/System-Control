@@ -1,0 +1,18 @@
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\bin\Debug\System Calculations.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\bin\Debug\System Calculations.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.csprojAssemblyReference.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\bin\Debug\System Calculations.dll
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\bin\Debug\System Calculations.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\obj\Debug\System Calculations.csprojAssemblyReference.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\obj\Debug\System Calculations.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\obj\Debug\System Calculations.dll
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\System Calculations\obj\Debug\System Calculations.pdb
+C:\Studia\MMM_Project_Framework\System Calculations\bin\Debug\System Calculations.dll
+C:\Studia\MMM_Project_Framework\System Calculations\bin\Debug\System Calculations.pdb
+C:\Studia\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.csprojAssemblyReference.cache
+C:\Studia\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.csproj.CoreCompileInputs.cache
+C:\Studia\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.dll
+C:\Studia\MMM_Project_Framework\System Calculations\obj\Debug\System Calculations.pdb

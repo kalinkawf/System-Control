@@ -1,0 +1,8 @@
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\bin\Debug\SC Control.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\bin\Debug\SC Control.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC Control.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC Control.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC Control.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC Control.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC_Control.SC_Control.resources
+C:\Users\damia\source\repos\MMM_Project_Framework\SC Control\obj\Debug\SC Control.csproj.GenerateResource.cache

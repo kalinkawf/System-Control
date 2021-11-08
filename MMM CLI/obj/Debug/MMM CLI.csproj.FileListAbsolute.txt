@@ -1,0 +1,20 @@
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\bin\Debug\MMM CLI.exe.config
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\bin\Debug\MMM CLI.exe
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\bin\Debug\MMM CLI.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\bin\Debug\System Calculations.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\bin\Debug\System Calculations.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\obj\Debug\MMM CLI.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\obj\Debug\MMM CLI.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\obj\Debug\MMM CLI.csproj.CopyComplete
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\obj\Debug\MMM CLI.exe
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM CLI\obj\Debug\MMM CLI.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\obj\Debug\MMM CLI.csprojAssemblyReference.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\obj\Debug\MMM CLI.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\obj\Debug\MMM CLI.exe
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\obj\Debug\MMM CLI.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\bin\Debug\MMM CLI.exe.config
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\bin\Debug\MMM CLI.exe
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\bin\Debug\MMM CLI.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\bin\Debug\System Calculations.dll
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\bin\Debug\System Calculations.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM CLI\obj\Debug\MMM CLI.csproj.CopyComplete

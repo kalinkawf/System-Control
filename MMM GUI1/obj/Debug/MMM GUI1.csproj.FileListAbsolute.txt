@@ -1,0 +1,42 @@
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.exe.config
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.exe
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.Form1.resources
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.Properties.Resources.resources
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.exe
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.ScControl.resources
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\bin\Debug\System Calculations.dll
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\bin\Debug\System Calculations.pdb
+C:\Users\damia\source\repos\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.CopyComplete
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\bin\Debug\MMM GUI1.exe.config
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\bin\Debug\MMM GUI1.exe
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\bin\Debug\MMM GUI1.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\bin\Debug\System Calculations.dll
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\bin\Debug\System Calculations.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.csprojAssemblyReference.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM_GUI1.Form1.resources
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM_GUI1.Properties.Resources.resources
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM_GUI1.ScControl.resources
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.csproj.GenerateResource.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.csproj.CopyComplete
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.exe
+C:\Users\kalin\OneDrive\Рабочий стол\MMM_Project_Framework — kopia\MMM GUI1\obj\Debug\MMM GUI1.pdb
+C:\Studia\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.exe.config
+C:\Studia\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.exe
+C:\Studia\MMM_Project_Framework\MMM GUI1\bin\Debug\MMM GUI1.pdb
+C:\Studia\MMM_Project_Framework\MMM GUI1\bin\Debug\System Calculations.dll
+C:\Studia\MMM_Project_Framework\MMM GUI1\bin\Debug\System Calculations.pdb
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csprojAssemblyReference.cache
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.Form1.resources
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.Properties.Resources.resources
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM_GUI1.ScControl.resources
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.GenerateResource.cache
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.CoreCompileInputs.cache
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.csproj.CopyComplete
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.exe
+C:\Studia\MMM_Project_Framework\MMM GUI1\obj\Debug\MMM GUI1.pdb
